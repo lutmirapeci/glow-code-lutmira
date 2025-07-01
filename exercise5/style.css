@@ -1,0 +1,27 @@
+/* element selector */
+p {
+  color: yellow;
+}
+
+/* class selector */
+.purple-bg {
+  background-color: purple;
+}
+
+.green-bg {
+  background-color: green;
+}
+
+/* id selector */
+
+#first {
+  font-size: 60px;
+}
+
+#second {
+  font-size: 40px;
+}
+
+#third {
+  font-size: 20px;
+}
